@@ -82,7 +82,7 @@ export const Overlay = () => {
             </button>
 
             <button className="bg-black hover:bg-black-700 text-white font-bold py-2 px-10 rounded-full cursor-pointer pointer-events-auto">
-              <Link to="" className="cursor-pointer">CAD Design</Link>
+              <Link to="http://localhost:3000" className="cursor-pointer">CAD Design</Link>
             </button>
           </div>
 
