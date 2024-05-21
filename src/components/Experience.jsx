@@ -22,6 +22,7 @@ export const scenes = [
       "Better computer aided fashion design",
     price: 7200,
     range: 6,
+    link: "Model"
   },
   {
     path: "models/long_dress_with_one_long_sleeve.glb",
@@ -30,6 +31,7 @@ export const scenes = [
     description: "Long Dress With Long Sleeve",
     price: 2974,
     range: 5,
+    link: "Long_dress_with_one_long_sleeve"
   },
   {
     path: "models/long_dress_with_long_sleeves.glb",
@@ -38,6 +40,7 @@ export const scenes = [
     description: "The Future of Fashion",
     price: 15000,
     range: 8,
+    link: "Long_dress_with_long_sleeves"
   },
 ];
 

@@ -1,6 +1,6 @@
 import { atom, useAtom } from "jotai";
 import { useEffect, useState } from "react";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 import { scenes } from "./Experience";
 
 export const slideAtom = atom(0);
@@ -29,7 +29,10 @@ export const Overlay = () => {
           visible ? "" : "opacity-0"
         } transition-opacity duration-1000`}
       >
-        <img src="logo.png" className="w-50 mx-auto mt-8 cursor-pointer pointer-events-auto" />
+        <img
+          src="logo.png"
+          className="w-50 mx-auto mt-8 cursor-pointer pointer-events-auto"
+        />
 
         <div className="absolute top-0 bottom-0 left-0 right-0 flex-1 flex items-center justify-between p-4">
           <svg
@@ -76,13 +79,20 @@ export const Overlay = () => {
             {scenes[displaySlide].description}
           </p>
 
-          <div className="mt-3  justify-evenly">
+          <div className="mt-3 justify-evenly ">
             <button className="bg-black hover:bg-black-700 text-white font-bold py-2 px-10 rounded-full cursor-pointer pointer-events-auto mr-4">
-              <Link to="/canvas" className="cursor-pointer">Pattern Generation</Link>
+              <Link
+                to={`/canvas?model=${scenes[displaySlide].link}`}
+                className="cursor-pointer"
+              >
+                {scenes[displaySlide].name}
+              </Link>
             </button>
 
             <button className="bg-black hover:bg-black-700 text-white font-bold py-2 px-10 rounded-full cursor-pointer pointer-events-auto">
-              <Link to="" className="cursor-pointer">CAD Design</Link>
+              <Link to="https://delladesign.vercel.app/" className="cursor-pointer">
+                CAD Design
+              </Link>
             </button>
           </div>
 
