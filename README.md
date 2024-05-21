@@ -1,21 +1,25 @@
-![Video Thumbnail](https://img.youtube.com/vi/0Yl7TiZtxnk/maxresdefault.jpg)
+![Screenshot 2024-04-14 010241](https://github.com/martins0023/cad_fasion/assets/69491293/85fa2208-77cf-4d22-9d8f-894062d4c8ad)
 
-[Video tutorial](https://youtu.be/0Yl7TiZtxnk)
 
-Huge thanks for the 3D models to:
-- Cactus by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/9UCcl_W0Xq3)
-- Picnic Table by J-Toastie [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/GQieALI2C4)
-- Kayak by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/8d-cgFdVEVN)
-- Cybertruck by Hashikemu https://market.pmnd.rs/creator/hashikemu https://market.pmnd.rs/model/cybertruck
-- Three way traffic light by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/ayAwgj82oUR)
-- Tires by Quaternius (https://poly.pizza/m/mmq7GmG1AK)
-- Wall desk speakers by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/fhFGDsv5jje)
-- Cargo Train Container by Quaternius (https://poly.pizza/m/AILdezfcv1)
-- Cone by J-Toastie [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/WoXpAJT0oD)
-- Concrete Barrier by J-Toastie [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/5Cg2oW7EFn)
-- Tesla Model 3 Author: David_Holiday (https://sketchfab.com/David_Holiday)
-License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-Source: https://sketchfab.com/3d-models/tesla-model-3-123c10f376ec4f18b93c73afc382808b
-- Tesla Semi: Author: Aleksei Rozumnyi (https://sketchfab.com/Aleksei.Rozumnyi)
-License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-Source: https://sketchfab.com/3d-models/tesla-semi-39ffc7c746184e0c9ebd5bbcd0b405dd
+![Screenshot 2024-04-14 003842](https://github.com/martins0023/cad_fasion/assets/69491293/7cdc5878-0bd3-434b-a826-70e14c0d60df)
+
+
+Introducing Fashion Design System, the pinnacle of computer-aided design software for the fashion industry. It seamlessly integrates cutting-edge technology with intuitive design tools, empowering fashion designers to unleash their creativity like never before.
+
+With this software system, designing stunning garments is as easy as sketching on paper, but with the added precision and versatility of digital tools. From conceptualization to final product, FashionForge streamlines the entire design process, allowing designers to bring their visions to life with unmatched speed and efficiency.
+
+Key features include:
+
+    Intuitive Interface: FashionForge boasts a user-friendly interface designed specifically for fashion designers. Whether you're a seasoned professional or a newcomer to the industry, you'll find FashionForge's tools intuitive and easy to use.
+
+    Virtual Prototyping: Say goodbye to endless rounds of physical prototypes. It enables designers to create virtual prototypes of their designs, allowing them to visualize garments in 3D from every angle. This not only speeds up the design process but also reduces material waste and environmental impact.
+
+    Advanced Rendering: With FashionForge's advanced rendering capabilities, designers can create photorealistic images of their designs with stunning detail. Whether presenting to clients or showcasing their work on social media, designers can ensure their creations look their best.
+
+    Pattern Making and Grading: FashionForge includes powerful pattern-making and grading tools, allowing designers to create accurate patterns for garments of any size. This ensures a perfect fit every time, whether designing for standard sizes or custom measurements.
+
+    Fabric Simulation: Want to see how a design will drape in different fabrics? The software system fabric simulation feature lets designers experiment with different materials, textures, and draping techniques, providing valuable insights into how a garment will look and feel in the real world.
+
+    Collaboration Tools: It makes collaboration easy, allowing designers to share their work with team members, clients, and manufacturers in real-time. With seamless collaboration features, teams can work together more efficiently, regardless of their location.
+
+   
