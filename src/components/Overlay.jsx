@@ -90,13 +90,9 @@ export const Overlay = () => {
             </button>
 
             <button className="bg-black hover:bg-black-700 text-white font-bold py-2 px-10 rounded-full cursor-pointer pointer-events-auto">
-<<<<<<< HEAD
               <Link to="https://delladesign.vercel.app/" className="cursor-pointer">
                 CAD Design
               </Link>
-=======
-              <Link to="http://localhost:3000" className="cursor-pointer">CAD Design</Link>
->>>>>>> 4f3281d76aa5f87c462c75afe96aae29c19fbed6
             </button>
           </div>
 
